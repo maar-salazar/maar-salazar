@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="palgit.JPG" width="120" style="border-radius: 50%;" />
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2563eb&height=200&section=header&text=Marlet%20Salazar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Chemical%20Engineer%20%7C%20Aspiring%20Developer&descAlignY=58&descSize=18&descColor=93c5fd" />
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif" width="300" />
 
 <!-- INTRO -->
 ### Hey there! 👋 I'm Marlet
