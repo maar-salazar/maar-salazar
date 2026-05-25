@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 <!-- INTRO -->
 ### Hey there! 👋 I'm Marlet
