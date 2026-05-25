@@ -7,7 +7,7 @@
 
 <br/>
 <!-- INTRO -->
-### Hey there! 👋 I'm Marlet
+### Hey there! 👋 I'm Marlet <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
 > *Chemical Engineering student at BUAP exploring the intersection of engineering and software development.*
 
@@ -37,7 +37,8 @@ My goal is to bring computational thinking into chemical engineering — one scr
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -52,6 +53,17 @@ My goal is to bring computational thinking into chemical engineering — one scr
 ![DWSIM](https://img.shields.io/badge/DWSIM-2563EB?style=for-the-badge&logoColor=white)
 
 ---
+
+<!-- CONNECT -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maar.szh/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://proceso-concentracion-mosto-jt6re8ljfb6r5hetbfftxa.streamlit.app)
+
+</div>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/marlet-salazar-hernández'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
 
 ## 🚀 Featured Projects
 
