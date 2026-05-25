@@ -55,7 +55,4 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radical&hide_border=true" width="48%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maar-salazar&...)
