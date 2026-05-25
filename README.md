@@ -28,7 +28,6 @@ My goal is to bring computational thinking into chemical engineering — one scr
 ## 🧑‍💻 About Me
 
 - 🎓 Studying **Chemical Engineering** at *Benemérita Universidad Autónoma de Puebla* (BUAP).
-- ⚙️ **Methodologies:** Lean Six Sigma White Belt Certified.
 - 🌱 Currently learning **Python**, **SQL**, and **Data Science** for process optimization.
 - ⚗️ Working with process simulation tools like **DWSIM**, **Aspen Plus**, and **AutoCAD Plant 3D**.
 - 🚀 Developing smart web interfaces (like my Flash Evaporation project) and functional product innovations.
