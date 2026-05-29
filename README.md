@@ -25,7 +25,7 @@ My goal is to bring computational thinking into chemical engineering — one scr
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🎓 Studying **Chemical Engineering** at *Benemérita Universidad Autónoma de Puebla* (BUAP).
 - 🌱 Currently learning **Python**, **SQL**, and **Data Science** for process optimization.
@@ -34,7 +34,7 @@ My goal is to bring computational thinking into chemical engineering — one scr
 - 🎯 **Goal:** Bring computational thinking into chemical engineering — one script at a time.
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -68,31 +68,11 @@ My goal is to bring computational thinking into chemical engineering — one scr
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
-## 🚀 Featured Projects
 
-### 🧪 [Proceso de Concentración de Mosto](https://proceso-concentracion-mosto-jt6re8ljfb6r5hetbfftxa.streamlit.app)
-> Interactive web app simulating a must concentration plant process.
 
-- Built with **Python + Streamlit**
-- Real-time **mass balance** and **energy calculations**
-- **Economic analysis** with NPV, payback period, and sensitivity charts
-- Adjustable operating variables via interactive sliders
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=maar-salazar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maar-salazar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=ffffff" />
 
 </div>
 
-### Github 状态图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
-
----
 
 ## 🗺️ Learning Roadmap
 
